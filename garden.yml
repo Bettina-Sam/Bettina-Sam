@@ -1,0 +1,31 @@
+name: Update garden and stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - build_garden.py
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw the garden and stats
+        run: python3 build_garden.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit the new drawings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add garden-light.svg garden-dark.svg stats-light.svg stats-dark.svg langs.json
+          git diff --cached --quiet || (git commit -m "Update garden and stats" && git push)
