@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/header.svg" alt="Bettina Anne Sam, Full-Stack and ML Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/header.svg" alt="Hi, I'm Betty! Bettina Anne Sam, full-stack and ML engineer" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=netlify&logoColor=white)](https://bettina-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2340FF?style=for-the-badge&logo=netlify&logoColor=white)](https://bettina-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bettina-anne-sam-76251b288)
 
 <br/>
@@ -47,28 +47,29 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 <div align="center">
 
-<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=disaster-mgmt-resqhub&theme=tokyonight&hide_border=true" alt="disaster-mgmt-resqhub" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/ocean-depths-dive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=ocean-depths-dive&theme=tokyonight&hide_border=true" alt="ocean-depths-dive" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/creative-digital-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=creative-digital-labs&theme=tokyonight&hide_border=true" alt="creative-digital-labs" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/volume-control-chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=volume-control-chaos&theme=tokyonight&hide_border=true" alt="volume-control-chaos" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=disaster-mgmt-resqhub&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="disaster-mgmt-resqhub" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/ocean-depths-dive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=ocean-depths-dive&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="ocean-depths-dive" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/creative-digital-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=creative-digital-labs&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="creative-digital-labs" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/volume-control-chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=volume-control-chaos&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="volume-control-chaos" width="49%" /></a>
 
 </div>
 
-## Recognition
+## Languages and streak
 
 <div align="center">
 
-![1st Place](https://img.shields.io/badge/1st_Place-NEC_National_Symposium-7c3aed?style=for-the-badge)
-![1st Prize](https://img.shields.io/badge/1st_Prize-FX_Debugathon-7c3aed?style=for-the-badge)
-![Rank 1](https://img.shields.io/badge/Rank_1-26th_College_Day-7c3aed?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL_IoT-Elite_92%25-0891b2?style=for-the-badge)
-![SkillRack](https://img.shields.io/badge/SkillRack-1000%2B_problems-0891b2?style=for-the-badge)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettina-Sam&layout=compact&langs_count=6&hide=html,css&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=Bettina-Sam&background=E4E3DF&border=E4E3DF&ring=2340FF&fire=FF5B37&currStreakNum=16181D&sideNums=16181D&currStreakLabel=2340FF&sideLabels=565A63&dates=565A63" alt="Contribution streak" />
 
 </div>
 
-## Contribution snake
+## Contribution heatmap
 
 <div align="center">
+
+<img src="https://ghchart.rshah.org/2340FF/Bettina-Sam" alt="Contribution heatmap" width="90%" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/output/github-snake-dark.svg" />
@@ -77,12 +78,18 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 </div>
 
-## Contact
-
-Open to full-time roles in full-stack development and machine learning from 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/bettina-anne-sam-76251b288) or through my [portfolio](https://bettina-portfolio.netlify.app).
+## Recognition
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=100&section=footer" width="100%" alt="" />
+![1st Place](https://img.shields.io/badge/1st_Place-NEC_National_Symposium-2340FF?style=for-the-badge)
+![1st Prize](https://img.shields.io/badge/1st_Prize-FX_Debugathon-20C46B?style=for-the-badge)
+![Rank 1](https://img.shields.io/badge/Rank_1-26th_College_Day-FF5B37?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL_IoT-Elite_92%25-16181D?style=for-the-badge)
+![SkillRack](https://img.shields.io/badge/SkillRack-1000%2B_problems-16181D?style=for-the-badge)
 
 </div>
+
+## Contact
+
+Open to full-time roles in full-stack development and machine learning from 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/bettina-anne-sam-76251b288) or through my [portfolio](https://bettina-portfolio.netlify.app).
