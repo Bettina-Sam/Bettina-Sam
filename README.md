@@ -47,10 +47,30 @@ I learn best when I can touch something. So when I get an idea, I turn it into s
 
 <div align="center">
 
-<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=disaster-mgmt-resqhub&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="disaster-mgmt-resqhub" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/ocean-depths-dive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=ocean-depths-dive&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="ocean-depths-dive" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/creative-digital-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=creative-digital-labs&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="creative-digital-labs" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/volume-control-chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=volume-control-chaos&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="volume-control-chaos" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-resqhub-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-resqhub-light.svg" alt="disaster-mgmt-resqhub: real-time disaster response with live hazard maps, geofenced alerts and incident reports" width="49%" />
+  </picture>
+</a>
+<a href="https://github.com/Bettina-Sam/ocean-depths-dive">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-ocean-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-ocean-light.svg" alt="ocean-depths-dive: an immersive ocean dive with animated marine life and interactive learning" width="49%" />
+  </picture>
+</a>
+<a href="https://github.com/Bettina-Sam/creative-digital-labs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-labs-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-labs-light.svg" alt="creative-digital-labs: particle simulations, generative art and motion-reactive visuals" width="49%" />
+  </picture>
+</a>
+<a href="https://github.com/Bettina-Sam/volume-control-chaos">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-volume-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/card-volume-light.svg" alt="volume-control-chaos: a playful experiment in unpredictable volume controls" width="49%" />
+  </picture>
+</a>
 
 </div>
 
@@ -58,8 +78,10 @@ I learn best when I can touch something. So when I get an idea, I turn it into s
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettina-Sam&layout=compact&langs_count=6&hide=html,css&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&hide_border=true" alt="Most used languages" />
-<img height="165" src="https://streak-stats.demolab.com?user=Bettina-Sam&background=F7F4EA&border=F7F4EA&ring=2340FF&fire=FF5B37&currStreakNum=16181D&sideNums=16181D&currStreakLabel=2340FF&sideLabels=565A63&dates=565A63" alt="Contribution streak" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/stats-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/stats-light.svg" alt="Languages drawn as crayons, plus current streak, longest streak and contributions this year" width="100%" />
+  </picture>
 
 </div>
 
@@ -67,9 +89,14 @@ I learn best when I can touch something. So when I get an idea, I turn it into s
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2340FF/Bettina-Sam" alt="Contribution heatmap" width="90%" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/garden-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/garden-light.svg" alt="A garden where every day I contributed grows a plant" width="100%" />
+  </picture>
 
-<br/><br/>
+<br/>
+
+And the snake that eats my commits:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/output/github-snake-dark.svg" />
