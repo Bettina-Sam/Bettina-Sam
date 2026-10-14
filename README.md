@@ -21,6 +21,12 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 - ML Intern at DRDO Aeronautical Development Establishment: a physics-informed ML platform for UAV performance analysis and mission planning
 - 2.5 years as an Assistant Software Engineer at Rotation 5: cross-platform mobile apps and 1,000+ automated tests
 
+## Currently
+
+- Building an AI voice agent for customer support at Nellai System and Services
+- Rebuilding my [portfolio](https://bettina-portfolio.netlify.app) with a 3D look
+- Looking for full-time full-stack and ML roles from 2027
+
 ## Tech stack
 
 <div align="center">
@@ -45,13 +51,14 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 ## Selected projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [disaster-mgmt-resqhub](https://github.com/Bettina-Sam/disaster-mgmt-resqhub) | Real-time disaster management platform with live hazard monitoring, geofenced alerts and incident reporting | Node.js, Express, MongoDB, WebSockets, Leaflet |
-| [ocean-depths-dive](https://github.com/Bettina-Sam/ocean-depths-dive) | Immersive ocean-exploration site with animated visuals and interactive learning modules | React, TypeScript, Framer Motion, Three.js |
-| [creative-digital-labs](https://github.com/Bettina-Sam/creative-digital-labs) | Interactive creative-technology playground: particle simulations, generative art, motion-reactive visuals | React, TypeScript, WebGL |
-| [volume-control-chaos](https://github.com/Bettina-Sam/volume-control-chaos) | Experimental web experience built around playful, unpredictable volume controls | React, TypeScript |
-| [bettina-portfolio](https://github.com/Bettina-Sam/bettina-portfolio) | Source for my portfolio site | JavaScript |
+<div align="center">
+
+<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=disaster-mgmt-resqhub&theme=tokyonight&hide_border=true" alt="disaster-mgmt-resqhub" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/ocean-depths-dive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=ocean-depths-dive&theme=tokyonight&hide_border=true" alt="ocean-depths-dive" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/creative-digital-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=creative-digital-labs&theme=tokyonight&hide_border=true" alt="creative-digital-labs" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/volume-control-chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=volume-control-chaos&theme=tokyonight&hide_border=true" alt="volume-control-chaos" width="49%" /></a>
+
+</div>
 
 ## GitHub stats
 
