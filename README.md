@@ -1,31 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=220&section=header&text=Bettina%20Anne%20Sam&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20%26%20ML%20Engineer&descSize=22&descAlignY=60" alt="Bettina Anne Sam" width="100%" />
-
-<a href="https://github.com/Bettina-Sam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Ex-ML+Intern+%40+DRDO-ADE;Building+AI+automation+%26+interactive+web+apps;B.Tech+IT+%2727+%C2%B7+CGPA+9.64;Open+to+2027+roles" alt="Typing intro" />
-</a>
+<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/header.svg" alt="Bettina Anne Sam, Full-Stack and ML Engineer" width="100%" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=netlify&logoColor=white)](https://bettina-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bettina-anne-sam-76251b288)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/terminal.svg" alt="Terminal intro" width="720" />
+
 </div>
 
 ## About
 
-Final-year B.Tech Information Technology student at Francis Xavier Engineering College. I build software people can use, and sometimes play with: full-stack web apps, ML platforms and AI automation.
+Final-year B.Tech Information Technology student at Francis Xavier Engineering College (CGPA 9.64). I build software people can use, and sometimes play with: full-stack web apps, ML platforms and AI automation.
 
-- Automation Engineering Intern at Nellai System and Services: an AI voice agent for customer support
-- ML Intern at DRDO Aeronautical Development Establishment: a physics-informed ML platform for UAV performance analysis and mission planning
-- 2.5 years as an Assistant Software Engineer at Rotation 5: cross-platform mobile apps and 1,000+ automated tests
-
-## Currently
-
-- Building an AI voice agent for customer support at Nellai System and Services
-- Rebuilding my [portfolio](https://bettina-portfolio.netlify.app) with a 3D look
-- Looking for full-time full-stack and ML roles from 2027
+- **Now:** Automation Engineering Intern at Nellai System and Services, building an AI voice agent for customer support
+- **Before:** ML Intern at DRDO Aeronautical Development Establishment, building a physics-informed ML platform for UAV performance analysis and mission planning
+- **Before that:** 2.5 years as an Assistant Software Engineer at Rotation 5, building cross-platform mobile apps and 1,000+ automated tests
 
 ## Tech stack
 
@@ -60,16 +54,15 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 </div>
 
-## GitHub stats
+## Recognition
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bettina-Sam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettina-Sam&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Bettina-Sam&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bettina-Sam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+![1st Place](https://img.shields.io/badge/1st_Place-NEC_National_Symposium-7c3aed?style=for-the-badge)
+![1st Prize](https://img.shields.io/badge/1st_Prize-FX_Debugathon-7c3aed?style=for-the-badge)
+![Rank 1](https://img.shields.io/badge/Rank_1-26th_College_Day-7c3aed?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL_IoT-Elite_92%25-0891b2?style=for-the-badge)
+![SkillRack](https://img.shields.io/badge/SkillRack-1000%2B_problems-0891b2?style=for-the-badge)
 
 </div>
 
@@ -84,12 +77,12 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 </div>
 
-## Recognition
-
-1st place, NEC National Symposium · 1st prize, FX Debugathon · Rank 1 in class, 26th College Day · NPTEL IoT Elite (top 2%) · 1,000+ problems solved on SkillRack
-
 ## Contact
 
 Open to full-time roles in full-stack development and machine learning from 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/bettina-anne-sam-76251b288) or through my [portfolio](https://bettina-portfolio.netlify.app).
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=100&section=footer" width="100%" alt="" />
+
+</div>
