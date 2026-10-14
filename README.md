@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/header.svg" alt="Hi, I'm Betty! Bettina Anne Sam, full-stack and ML engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/header.svg" alt="Hi! I'm Betty, Bettina Anne Sam. Full-stack developer, ML engineer and professional bug hunter." width="100%" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2340FF?style=for-the-badge&logo=netlify&logoColor=white)](https://bettina-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bettina-anne-sam-76251b288)
 
-<br/>
+</div>
 
-<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/terminal.svg" alt="Terminal intro" width="720" />
+## Nice to meet you
+
+I'm a final-year B.Tech IT student at Francis Xavier Engineering College (CGPA 9.64), and a full-stack and ML engineer who likes building things you can actually play with: web apps, 3D experiments, machine learning platforms, and the occasional gloriously silly idea.
+
+I learn best when I can touch something. So when I get an idea, I turn it into something you can click, drag, scroll or wave at.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Bettina-Sam/Bettina-Sam/main/quests.svg" alt="Betty's quest log: Rotation 5, DRDO, NEC National Symposium, FX Debugathon done. NSS in progress. 2027 next." width="800" />
 
 </div>
 
-## About
-
-Final-year B.Tech Information Technology student at Francis Xavier Engineering College (CGPA 9.64). I build software people can use, and sometimes play with: full-stack web apps, ML platforms and AI automation.
-
-- **Now:** Automation Engineering Intern at Nellai System and Services, building an AI voice agent for customer support
-- **Before:** ML Intern at DRDO Aeronautical Development Establishment, building a physics-informed ML platform for UAV performance analysis and mission planning
-- **Before that:** 2.5 years as an Assistant Software Engineer at Rotation 5, building cross-platform mobile apps and 1,000+ automated tests
-
-## Tech stack
+## What I work with
 
 <div align="center">
 
@@ -43,27 +43,27 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 </div>
 
-## Selected projects
+## Things I've made
 
 <div align="center">
 
-<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=disaster-mgmt-resqhub&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="disaster-mgmt-resqhub" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/ocean-depths-dive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=ocean-depths-dive&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="ocean-depths-dive" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/creative-digital-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=creative-digital-labs&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="creative-digital-labs" width="49%" /></a>
-<a href="https://github.com/Bettina-Sam/volume-control-chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=volume-control-chaos&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="volume-control-chaos" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/disaster-mgmt-resqhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=disaster-mgmt-resqhub&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="disaster-mgmt-resqhub" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/ocean-depths-dive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=ocean-depths-dive&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="ocean-depths-dive" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/creative-digital-labs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=creative-digital-labs&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="creative-digital-labs" width="49%" /></a>
+<a href="https://github.com/Bettina-Sam/volume-control-chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bettina-Sam&repo=volume-control-chaos&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&icon_color=2340FF&hide_border=true" alt="volume-control-chaos" width="49%" /></a>
 
 </div>
 
-## Languages and streak
+## Numbers, if you like numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettina-Sam&layout=compact&langs_count=6&hide=html,css&bg_color=E4E3DF&title_color=2340FF&text_color=16181D&hide_border=true" alt="Most used languages" />
-<img height="165" src="https://streak-stats.demolab.com?user=Bettina-Sam&background=E4E3DF&border=E4E3DF&ring=2340FF&fire=FF5B37&currStreakNum=16181D&sideNums=16181D&currStreakLabel=2340FF&sideLabels=565A63&dates=565A63" alt="Contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bettina-Sam&layout=compact&langs_count=6&hide=html,css&bg_color=F7F4EA&title_color=2340FF&text_color=16181D&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=Bettina-Sam&background=F7F4EA&border=F7F4EA&ring=2340FF&fire=FF5B37&currStreakNum=16181D&sideNums=16181D&currStreakLabel=2340FF&sideLabels=565A63&dates=565A63" alt="Contribution streak" />
 
 </div>
 
-## Contribution heatmap
+## My little GitHub garden
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 </div>
 
-## Recognition
+## Shiny things
 
 <div align="center">
 
@@ -90,6 +90,12 @@ Final-year B.Tech Information Technology student at Francis Xavier Engineering C
 
 </div>
 
-## Contact
+## Say hi
 
-Open to full-time roles in full-stack development and machine learning from 2027. Reach me on [LinkedIn](https://www.linkedin.com/in/bettina-anne-sam-76251b288) or through my [portfolio](https://bettina-portfolio.netlify.app).
+I'm open to full-time roles in full-stack development and machine learning from 2027. Find me on [LinkedIn](https://www.linkedin.com/in/bettina-anne-sam-76251b288) or poke around my [portfolio](https://bettina-portfolio.netlify.app).
+
+<div align="center">
+
+*Thanks for stopping by. Go on, poke around.*
+
+</div>
